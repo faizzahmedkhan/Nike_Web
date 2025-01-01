@@ -23,7 +23,7 @@ const Navbar = () => {
       <header className=" bg-zinc-200 ">
         <div className="flex justify-between mx-5 sm:mx-10 py-2 items-center">
           <div className="">
-            <Image src={"/Frame.png"} width={24} height={24} alt="logo-sm" />
+            <Image src={"/frame.png"} width={24} height={24} alt="logo-sm" />
           </div>
           <div className="">
             <div className="flex gap-2 sm:gap-3 text-xs md:text-base">
